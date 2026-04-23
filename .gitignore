@@ -1,0 +1,29 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Env files
+.env
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+build/
+
+# ========================
+# Generated outputs (IMPORTANT)
+# ========================
+backend/analysis_outputs/
+
+# ========================
+# IDE / OS
+# ========================
+.vscode/
+.DS_Store
+Thumbs.db
